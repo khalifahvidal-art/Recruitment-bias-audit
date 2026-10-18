@@ -1,0 +1,11 @@
+{
+  "synthetic_seed0.csv": "e5106574db38c6ef0c41ed093cdd4272082ae130484ca13c36ea9a7386db0539",
+  "paired_intervals.csv": "7da216dea8de30db91e8e7fc227da32ac2a55a678f0f8a54f314f80a884c7eab",
+  "summary.csv": "ba39362fe74f2f8a98e389be1129ba4d60815e374052dc71fcbbd63caed79c34",
+  "group_metrics.csv": "913b0f4182d1006fd2b0312cde9a169a521d0df32c20e45a2b45f92a6bc9bf6e",
+  "reference_comparison.png": "f6c787322d608c1ac6cc4cfa0f276522fa68911f5063360496e9cd2e44e45872",
+  "environment.json": "622eac39f4d6cbd04274e76eb2c96cb7277d6ac4f632976e20978490cf1b8976",
+  "constraint_diagnostics.csv": "44f96869d1ad695f9a4f621787ca3e0ff49530655e2794c68db4b124c59a8c9f",
+  "metrics.csv": "fc74358b9f5de742d7c396676d365b31d80d887673bd3af5dacc46941019cffe",
+  "paired_sensitivity.png": "26d4c9c9bae60cf53bd4a39caba45aa967ecd717d6c567dc9b0e37eadf8640c1"
+}

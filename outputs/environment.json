@@ -1,0 +1,56 @@
+{
+  "version": "1.0.0",
+  "seeds": 30,
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "sklearn": "1.8.0",
+  "fairlearn": "0.13.0",
+  "scenarios": {
+    "reference": {},
+    "suppression_0": {
+      "suppression": 0
+    },
+    "suppression_025": {
+      "suppression": 0.25
+    },
+    "suppression_065": {
+      "suppression": 0.65
+    },
+    "proxy_0": {
+      "proxy": 0
+    },
+    "proxy_09": {
+      "proxy": 0.9
+    },
+    "proxy_27": {
+      "proxy": 2.7
+    },
+    "sample_1000": {
+      "n": 1000
+    },
+    "sample_8000": {
+      "n": 8000
+    },
+    "group_02": {
+      "group_p": 0.2
+    },
+    "group_08": {
+      "group_p": 0.8
+    },
+    "base_minus_08": {
+      "base_shift": -0.8
+    },
+    "base_plus_08": {
+      "base_shift": 0.8
+    },
+    "review_error_01": {
+      "review_error": 0.1
+    },
+    "review_error_02": {
+      "review_error": 0.2
+    }
+  },
+  "bootstrap_replicates": 10000,
+  "bootstrap_seed": 20261016
+}
